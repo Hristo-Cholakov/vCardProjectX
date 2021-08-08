@@ -1,0 +1,9 @@
+body {
+    background-color: #F6C6EA;
+}
+
+.row {
+    text-align: center;
+    padding-bottom: 5px;
+    display: block;
+}
